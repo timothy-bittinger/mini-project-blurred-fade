@@ -26,7 +26,16 @@ body{
     filter: blur(30px);
 }
 
+.loading-circle {
+    position:absolute;
+    height: 12em;
+    width: 12em;
+    border-top: .25em solid #fff;
+    border-radius: 50%;
+    transform: rotate(35deg);
+}
 .loading-text {
     font-size: 4em;
     color: #fff;
 }
+
