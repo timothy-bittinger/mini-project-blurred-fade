@@ -1,5 +1,6 @@
 @import url('https://fongs.googleapis.com/css?family=Ubuntu');
 
+/*General*/
 *{
     box-sizing:border-box;
 }
@@ -15,6 +16,7 @@ body{
     margin: 0;
 }
 
+/*Main Elements*/
 .bg {
     background: url(https://cdn.pixabay.com/photo/2022/01/25/12/58/conifer-6966140_1280.jpg) no-repeat center center/cover;
     position: absolute;
